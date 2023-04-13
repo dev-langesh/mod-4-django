@@ -4,7 +4,7 @@ pip install virtualenv
 
 ### create virtualenv
 
-virtualenv env
+virtualenv env or python -m virtualenv env
 
 ### activate env -> in CMD not in Powershell
 
