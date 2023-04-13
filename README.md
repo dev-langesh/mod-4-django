@@ -22,3 +22,7 @@ django-admin startproject mysite
 
 1. cd mysite
 2. python manage.py runserver
+
+### create app
+
+python manage.py startapp base
